@@ -1,1 +1,0 @@
-I wonder why I would do it this way. For one, I don't really have byobu in git bash. And my vim doesn't work well in ubuntu wsl so I usually ssh into the mac to use vim, or use gvim in windows.

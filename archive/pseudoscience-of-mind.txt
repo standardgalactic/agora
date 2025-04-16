@@ -1,0 +1,1554 @@
+AUTISM AND THE PSEUDOSCIENCE OF MIND
+TRAVIS LACROIX
+Abstract. This paper critically examines the theory-of-mind-deficit explana-
+tion of autism—a cognitive explanation of autistic behaviour that has signif-
+icantly influenced empirical research and philosophical discourse surrounding
+autism. However, the claim that autistics lack a theory of mind is false. Part of
+the purpose of this paper is to describe how. First, a theory-of-mind deficit is
+inadequate as an explanatory model. Second, prior research has demonstrated
+the empirical failures of experiments intended to measure theory-of-mind abil-
+ities. These facts together suggest that the science of theory of mind in the
+context of autism is bad science. I argue that it is pseudoscience. This view
+has important consequences for philosophers who uncritically invoke autism
+(qua theory-of-mind deficit) as a thought experiment.
+Keywords — Autism, Theory of Mind, Pseudoscience, Demarcation, Neu-
+rodiversity, Double Empathy, Monotropism, Philosophy of Autism, Autistic
+Philosophy, Philosophy on the Spectrum
+What to do with scholarship that denies autistic agency,
+denies autistic voice, denies autistic personhood?
+— M. Remi Yergeau, "Occupying Autism"
+1. Introduction
+Empirical research on autism spectrum disorder (ASD) has aimed to elucidate
+the psychological or cognitive mechanisms underpinning autism's behavioural man-
+ifestations.1 Such cognitive explanations are supposed to further an aetiological un-
+derstanding of autism by positing an "intervening variable" between biological and
+Department of Philosophy, Dalhousie University
+E-mail address: tlacroix@dal.ca.
+Date: Unpublished draft of December, 2023. Please cite published version, if available.
+1Throughout this paper, I use "autism" (and cognates) to refer to the actual thing in the world.
+In contrast, I use Autism Spectrum Disorder, or ASD, to refer to the (pathologised) medical
+labelling of autism and autistics. I take the former to be a metaphysical property denoting a
+certain subset of the population, whereas the latter refers to a social construct that attempts to
+describe that population (regardless of whether it does so successfully). Thus, I occasionally use
+deficit language when describing ASD and research on ASD without committing to a negative
+description of autistics themselves. At the same time, I use identity-first language (i.e., autistic
+person) instead of person-first language (i.e., person with autism) to reflect the average preference
+of the autistic community (see discussion in Sinclair (2013); Botha et al. (2021); Bradshaw et al.
+(2021); Taboas et al. (2022)); "autistics" can be read as a shorthand for "autistic persons" or
+"autistic individuals".
+1
+
+2
+AUTISM & THE PSEUDOSCIENCE OF MIND
+environmental factors and autistic behaviour (Frith et al., 1991; Morton and Frith,
+1995a,b; Pellicano, 2011). In the past half-century, numerous such hypotheses have
+been forwarded, including the popular claim that autistics lack a theory of mind
+(Baron-Cohen et al., 1985).
+Theory-of-mind-deficit explanations of autism have been of particular interest to
+philosophers in light of the normative and theoretical entailments of the possibility
+of agents who are "unable" to attribute mental states to others. This fact would
+have consequences for epistemology, the philosophy of mind, theories of meaning,
+and normative theory, among other things. Thus, it should be unsurprising that
+philosophers have used autism as a token thought experiment for philosophical
+inquiry.
+However, despite the rate at which philosophers repeat the claim that autistics
+lack a theory of mind, this claim is false. Part of the purpose of this paper is to
+describe how. On the one hand, previous research has demonstrated that a theory-
+of-mind deficit is not an adequate explanatory model of autistic behaviour insofar
+as purported theory-of-mind deficits are neither unique to nor universal amongst
+autistics. At the same time, the theory-of-mind-deficit explanation of autism does
+not have solid empirical grounding insofar as experiments that claim to measure
+theory-of-mind differences between autistics and neurotypicals have failed to repli-
+cate, and proxies for measuring theory of mind lack convergent validity. These facts
+suggest that the "science" of theory of mind in the context of autism is, minimally,
+bad science. However, the situation is more subtle.
+Rather than abandoning this research programme, scholars who endorse the
+theory-of-mind-deficit explanation of autism have engaged in question-begging, ad-
+hoc hypothesising, and goalpost-shifting in an attempt to salvage the explanation.
+This phenomenon occurs despite well-documented empirical failures of research
+claiming to test theory-of-mind deficits in autistic individuals. Indeed, it continues
+despite first-person testimony from autistics contradicting the claim that autistics
+lack a theory of mind. Moreover, this view persists even though theory-of-mind-
+deficit explanations of autism do little to serve the autistic community. Instead,
+such theories reinforce the "pathology paradigm" (Walker, 2021) and further en-
+trench dominance hierarchies of the "typical" neurotype, thus recapitulating the
+dehumanisation and stigmatisation of autistics in society.
+In considering the combination of poor scientific enquiry and the social dimension
+of autism research, I argue that experimental "evidence" for the theory-of-mind-
+deficit explanation of autism is not merely bad science; it is pseudoscience. The
+pseudoscientific features of this body of research are elucidated by exploring the
+following two questions:
+(1) Do tests of theory of mind measure theory of mind?
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+3
+(2) What test could disprove the claim that autistics lack a theory of mind?
+The paper proceeds as follows. Section 2 describes autism and ASD. Section 3
+outlines several theories that posit a cognitive explanation for observable autistic
+behaviour, particularly the theory-of-mind-deficit explanation. Section 4 outlines
+the scientific basis of experiments purporting to test theory-of-mind abilities in
+autistics, and Section 5 summarises the empirical failures of this research. Section 6
+describes the demarcation problem and argues that the theory-of-mind-deficit ex-
+planation is pseudoscientific. Section 7 concludes by examining this argument's
+consequences for philosophers who uncritically invoke autism qua theory-of-mind
+deficit as a thought experiment in normative research.
+2. Autism and ASD
+Autism is a neurodevelopmental difference that affects how autistics relate to
+and interact with the environment and people around them. In contrast, autism
+spectrum disorder (ASD) is a medical (pathological) categorisation of those who
+exhibit certain sets of behavioural traits deemed deficits relative to the neurotypical
+majority.
+The diagnostic criteria for ASD have changed significantly since the codification
+of behaviours observed by Grunya Ssucharewa (1926), Leo Kanner (1943), Hans As-
+perger (1944), Lauretta Bender (1954), and others in the early 20th-Century. At this
+time, ASD was described as a form of childhood schizophrenia (APA, 1952, 1958),2
+later given its own classification—"infantile autism" and "autistic disorder"—in the
+third iteration of the Diagnostic and Statistical Manual of Mental Disorders (APA,
+1980, 1987).3 In 1994 and 2000, we got an expansion of autism categories under the
+umbrella term "pervasive developmental disorders", which include autistic disorder,
+Asperger's, Rett's, childhood disintegrative disorders and pervasive developmental
+disorder - not otherwise specified (APA, 1994, 2000). This expansion implicitly
+categorises autism as a spectrum—a concept advocated for by Lorna Wing in the
+1980s (Wing and Gould, 1979).
+The conceptualisation of autism as a spectrum is codified by the DSM 5, which
+collapses the nosological variation of the DSM-IV and DSM-IV-TR back into a
+single label: autism spectrum disorder. The DSM 5 criteria for an ASD diagnosis
+requires persistent deficits in each of 3 areas of social communication and interaction
+(A1-A3), including
+A1. Deficits in social-emotional reciprocity;
+2Asperger (1944) uses the label "autistic psychopathy", but here too the label "autism" is derived
+from the concept of autism in schizophrenia.
+3Note that the DSM, published by the American Psychiatric Association, is the primary noso-
+logical reference in North America; outside of North America, the International Classification of
+Diseases (ICD), published by the World Health Organisation, predominates.
+
+4
+AUTISM & THE PSEUDOSCIENCE OF MIND
+A2. Deficits in nonverbal communicative behaviours used for social interaction;
+and
+A3. Deficits in developing, maintaining, and understanding relationships.
+In addition, individuals must display at least two of four types of restricted, repet-
+itive behaviours (B1-B4):
+B1. Stereotyped or repetitive motor movements, use of objects, or speech;
+B2. Insistence on sameness, inflexible adherence to routines, or ritualised pat-
+terns of verbal or nonverbal behaviour;
+B3. Highly restricted, fixated interests that are abnormal in intensity or focus;
+and
+B4. Hyper- or hypo-reactivity to sensory input or unusual interest in sensory
+aspects of the environment.
+Levels of "severity" for each of (A1-A3) and (B1-B4) are rated based on support
+needs (APA, 2013).4
+Thus, although the diagnostic criteria have shifted significantly with each it-
+eration of the DSM, it should be clear that the current description of ASD still
+entrenches the "triad of impairments" model—social impairments, communication
+impairments, and restricted or repetitive behaviour or interests—which was intro-
+duced by Wing and Gould (1979). (Although "social impairments" and "commu-
+nication impairments" are collapsed into a single "pillar" in the DSM 5.) One key
+thing to note is that a diagnosis of ASD is based purely on behavioural character-
+istics.
+3. Cognitive Explanations of Autism
+Since the early 1970s, owing to the experimental work of Hermelin and O'Connor
+(1967, 1970); Frith (1970, 1972), much research has aimed to elucidate the psy-
+chological or cognitive mechanisms underpinning the behavioural manifestations of
+ASD (Pellicano, 2011). Despite its genetic basis, no specific gene is associated with
+autism—recent studies have identified over 250 genes linked with autism, including
+some de novo variations (Fu et al., 2022)—nor are there any biological markers
+for autism. As such, researchers have focused on furthering our understanding of
+autism by positing cognitive explanations that seek to determine an "intervening
+variable" between biology and behaviour (Rutter, 1983; Frith et al., 1991; Morton
+and Frith, 1995a,b). See Figure 1.
+4In addition, these behavioural characteristics should (C) be present in the early developmental
+period, (D) cause clinically significant impairment in social, occupational, or other important
+areas of current functioning, and (E) not be better explained by intellectual disability or global
+developmental delay.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+5
+Aetiology
+Underlying
+Cause
+(Biological)
+Underlying
+Cause
+(Environmental)
+Cognitive Explanation
+Intervening
+Variable
+(cognition)
+Observable Behaviour
+("Triad of Impairments")
+Social Impairments
+Communication Impairments
+Restricted / Repetitive
+Behaviour / Interests
+Figure 1. Cognitive-explanation model of ASD
+To be explanatorily useful, a primary cognitive deficit must be "universal, spe-
+cific, and necessary and sufficient to cause the symptoms of the disorder . . . in other
+words, the proximal cognitive cause of the behavioural symptoms of the disorder"
+(Pennington and Ozonoff, 1996, 57). In addition, the primary cognitive marker
+should have causal priority—meaning that it should be able to explain the earliest-
+emerging features of autism (Happ´e, 1994b; Boucher, 1996; Tager-Flusberg, 2001).
+Numerous hypotheses concerning the cognitive "deficits" characterising ASD
+have been forwarded in the past half-century, including atypical "central" processes
+such as sequencing, concept formation and abstraction (Hermelin and O'Connor,
+1970); core problems in language (Rutter, 1968); sensory and perceptual atypicality
+(Ornitz and Ritvo, 1968); disruption of "complex" information processing (Minshew
+et al., 1992, 1997); poor social responsiveness (Klin and Volkmar, 1993; Mundy and
+Sigman, 1989); and, impairments in interpersonal relatedness (Hobson, 1989, 1993,
+2002), among many others.5
+However, three particularly salient theories have been influential in directing re-
+search and conceptualisations of autism. The "theory of mind" hypothesis claims
+that autism is caused primarily by a specific inability to impute mental states to
+oneself and others (Baron-Cohen et al., 1985, 2000; Tager-Flusberg, 2007). The
+"executive dysfunction" hypothesis proposes that autistic behaviours are a result
+of a dysexecutive syndrome—a primary problem in the executive control of action
+(Hughes and Russell, 1993; Ozonoff et al., 1991a; Hill, 2004; Russo et al., 1998).
+And, "weak" central coherence theory posits that autistic individuals tend to focus
+on individual elements rather than wholes combined with an inability to integrate
+information into context (Frith, 1989; Frith and Happ´e, 1994; Happ´e and Booth,
+2008; Happ´e and Frith, 2008). It is worth noting that each model posits a single
+cause at the cognitive level of analysis. This feature is reason alone to think that
+5See further discussion in Pellicano (2011).
+
+6
+AUTISM & THE PSEUDOSCIENCE OF MIND
+none of these hypotheses can be correct since autism is nothing if not heteroge-
+neous.6
+This paper focuses on the theory-of-mind explanation of ASD because, despite
+being false, it pervades popular descriptions of autistics. At the same time, some
+researchers have argued that these competing explanations are compatible insofar
+as, e.g., weak central coherence might be a facet of executive dysfunction (Frith,
+2003) or theory-of-mind deficits might be caused by executive dysfunction (Frith
+and Happ´e, 1999; Happ´e, 2000; Gl¨uer and Pagin, 2003). Importantly, all three
+theories are purported to entail some facts about an impaired theory of mind (Frith,
+2003).
+4. The Science of Theory of Mind
+Despite its prevalence in the discourse surrounding ASD, theory of mind is a
+vexed concept. That said, one standard definition of theory of mind is the ability
+to impute or attribute mental states—e.g., emotions, intentions, desires, beliefs,
+etc.—to oneself or others (Dennett, 1978; Wimmer and Perner, 1983; Gallese and
+Sinigaglia, 2011). Early tests of theory-of-mind abilities involved so-called false-
+belief tasks, which are assumed to require, minimally, the ability to represent the
+mental states of others, understand that those mental states may differ from present
+experience—i.e., the here and the now—and distinguish others' mental states from
+one's own. All of these are taken to be standard "mindreading" or "mentalising"
+abilities.
+Empirical "evidence" for the claim that autistics lack a theory of mind is given
+in a series of experiments, beginning in the 1980s, that utilise false-belief tasks
+to determine whether children (autistic or otherwise) can attribute false beliefs to
+another agent. One classic experiment, called the Sally-Anne test, uses the puppet-
+play paradigm (Wimmer and Perner, 1983) to probe belief attribution in children.
+The landmark study by Baron-Cohen et al. (1985), entitled "Does the autistic child
+have a theory of mind?"—a reference to Premack and Woodruff (1978)—led to the
+proposal that theory-of-mind deficits might explain the core features of autism
+(Baron-Cohen, 1993; Leslie, 1987, 1991; Frith et al., 1991; Baron-Cohen, 1995).
+However, it should immediately be apparent that such an explanation could only
+account for the socio-communicative aspects of ASD (A1-A3 above), but not the
+non-social aspects (B1-B4); this is discussed in more detail below.
+6In light of this, some authors have proposed multi-deficit cognitive models of autism—see, e.g.,
+Wing and Wing (1971); Goodman (1989); Bishop (1989); Pennington et al. (1997); others have
+proposed that the triad of impairments may be dissociated so that each impairment (separately
+inheritable) has a separate cause—see, e.g., Bolton et al. (1994); Piven et al. (1997). See also
+discussion in Pellicano (2011).
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+7
+The children in the experiment are shown two puppets, called "Sally" and
+"Anne". The child watches Sally place a marble in a basket and then leave the
+scene. While Sally is away, Anne moves the marble from the basket to a box. Sally
+then returns to the scene, and the child is asked, "Where will Sally look for the
+marble". If the child answers "the basket", this is taken as evidence that the child
+is capable of attributing to Sally the false belief, the marble is in the basket,
+despite that the child herself believes (truly) that the marble is in the box. If the
+child answers that Sally will look in the box, then this is taken as a failure to at-
+tribute a false belief to Sally, which is taken, in turn, as evidence for lack of theory
+of mind.
+In Baron-Cohen et al.'s (1985) original study, the experimental design included
+a "typically-developing" group (n1 = 27), a "Down's syndrome" group (n2 = 14),
+and an autistic group (n3 = 20). Each child is asked three control questions and
+one experimental question:
+Naming Question
+Which doll is Sally? Which is Anne?
+Reality Question
+Where is the marble really?
+Memory Question
+Where was the marble at the beginning?
+Belief Question
+Where will Sally look for the marble?
+The naming question ensures that the children know which doll is which; this is
+important because if they think "Sally" refers to Anne, they would answer the
+belief question "incorrectly" by stating (correctly) that "Sally"—referring to Anne—
+would look in the box (false negative). The reality question is also an important
+control because if the child answers "correctly"—because she thinks that the marble
+is in the basket—then this would confound the results of the experimental question
+(false positive). The memory question is also an important control because if the
+child answers incorrectly—e.g., if she forgot the marble was in the basket and thinks
+that the marble was in the box at the start—then this would again confound the
+results of the experimental question (false negative). All of the subjects in all three
+groups answered the naming, memory, and reality questions correctly (Baron-Cohen
+et al., 1985, 42).
+However, when posed with the experimental question—the belief question—85%
+of the typically-developing children and 86% of the children with Down's syndrome
+answered that Anne will look for the marble in the basket; in contrast, 80% of the
+autistic children answered that Anne will look for the marble in the box. These
+experimental results led to the assertion that "autistic children as a group fail to
+employ a theory of mind" (Baron-Cohen et al., 1985, 43), where such a failure is
+understood as an inability to represent mental states, which leads to an inability to
+impute beliefs to others, which causes a "grave disadvantage" in predicting others'
+behaviour (43).
+
+8
+AUTISM & THE PSEUDOSCIENCE OF MIND
+Other experiments have been devised as proxies for testing theory-of-mind abil-
+ities, including second-order false-belief tasks (Baron-Cohen, 1989), which involve
+asking where some third party will think that Sally thinks the marble is; strange
+stories (Happ´e, 1994a; White et al., 2009), which involves explaining why a char-
+acter in a short vignette might have said something that is not literally true; faux
+pas (Baron-Cohen et al., 1999), which involves asking subjects why a statement
+is unintentionally (socially) "wrong" or awkward; animated triangles (Abell et al.,
+2000), which involves describing what is happening in an animated clip containing
+geometric shapes; and reading the mind in the eyes (Baron-Cohen et al., 2001),
+which involves matching emotion and mental state descriptions to static images of
+the eye region of faces.
+As a consequence of Baron-Cohen et al. (1985) and subsequent experiments, the
+view that autistics lack a theory of mind now pervades psychology. As Gernsbacher
+and Yergeau (2019) highlight, this view "is taught across a wide range of psychol-
+ogy textbooks. The assertion is argued by psychologists in state and federal court
+cases. The assertion is promoted by thousands of psychology articles" (2), the vast
+majority of which take the claim for granted. However, theory-of-mind deficits can-
+not adequately explain autism, and experimental evidence and autistic testimony
+both suggest that the theory-of-mind-deficit explanation of autism is false. The
+subsequent section summarises prior research on the inadequacy of the theory-of-
+mind-deficit theory of autism. Additional details can be found in Pellicano (2011),
+Gernsbacher (2018), and Gernsbacher and Yergeau (2019).
+5. The Bad Science of Mind
+In order for a putative cognitive model of autism to be genuinely explanatory,
+the explanatory features that the model proposes should: (1) be universal, or near
+universal, among autistics; (2) be unique to autistics (i.e., not present in individ-
+uals with other developmental conditions); (3) show causal precedence; (4) show
+explanatory power (i.e., the incidence and severity of the deficit should be directly
+related to the behavioural characteristics in each of the three domains).7
+As noted above, 80% of autistic children in the experiment conducted by Baron-
+Cohen et al. (1985) failed the false-belief task. This result, of course, logically
+implies that 20% of the autistic children passed the false-belief task. Subsequent
+studies have had highly variable failure rates for autistics on several tasks intended
+to measure theory-of-mind capacities, ranging from 85% (Reed and Peterson, 1990)
+to 45% (Prior et al., 1990), with at least one study reporting only 10% of autistic
+7See discussion in, e.g., Rutter (1983); Pennington and Ozonoff (1996); Boucher (1996); Happ´e
+(1994b); Tager-Flusberg (2001).
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+9
+participants as failing the task (Dahlgren and Trillingsgaard, 1996). Therefore, al-
+leged theory-of-mind deficits are not universal to autistics, and it is highly unlikely
+that they play any significant causal role in explaining the development of autism
+(Pellicano, 2011). Since failure on false-belief tasks (and other purported measures
+of theory-of-mind abilities) are not universal among autistics, the theory-of-mind
+deficit hypothesis fails the universality condition.8
+At the same time, failure on false-belief tasks is also not unique to autistics,
+as many other populations of children fail these tasks.9 Gernsbacher and Yergeau
+(2019) highlight that "the more atypical the child, the more likely they are to
+fail false belief tasks" (103). Perhaps most importantly, children with no social or
+emotional disability but specific language impairments also fail false-belief tasks
+(Miller, 2001). This fact makes good sense because studies have shown that false-
+belief tasks depend highly on linguistic ability (Milligan et al., 2007) and that syntax
+and semantics contribute to false belief understanding (Slade and Ruffman, 2005).
+Linguistic analysis highlights the syntactic complexity of the belief question on
+some false-belief tasks since these sentences "exhibit sentential complement con-
+structions, in which a complement clause is embedded in the matrix clause" (Gerns-
+bacher and Frymiare, 2005, 6). As it happens, vocabulary alone predicts perfor-
+mance on false-belief tasks more accurately than whether a participant is autistic
+(Loukusa et al., 2014; Norbury, 2005). Because theory-of-mind tasks rely heavily
+on complex language and because ASD, by diagnostic definition, involves commu-
+nicative differences, it is unsurprising that autistic participants perform less well
+than non-autistic participants (when they do). Furthermore, because autistics vary
+in their communicative abilities, it is unsurprising that autistic people vary in their
+false-belief task performance. Thus, it should be uncontroversial that failure on
+false-belief tasks—often interpreted as a failure of mentalising abilities associated
+with theory of mind—is not unique to autistics.
+Furthermore, neurotypical children do not pass false-belief tasks, on average,
+until age 4. However, certain autistic behaviours—including atypicality in social
+responsiveness and reciprocity, gaze behaviour, joint attention, and imitation—
+may be noticeable around the age of 18-24 months (Dawson and Adams, 1984;
+Volkmar et al., 1987; Mundy and Sigman, 1989; Klin et al., 1992). This observation
+8See further discussion in Ozonoff et al. (1991b); Bailey et al. (1996); Beversdorf et al. (1998);
+Bauminger and Kasari (1999); Buitelaar et al. (1999); Charman (2000); Pellicano (2011); Boucher
+(2012); Gernsbacher and Yergeau (2019) and citations in Gernsbacher (2018).
+9For example, deaf or blind children (Peterson and Siegal, 1995, 1999; Russell et al., 1998; Brown
+et al., 1997; Minter et al., 1998; Tager-Flusberg, 2001; Green et al., 2004), children with particular
+language impairments (Miller, 2001; Loukusa et al., 2014; Norbury, 2005), Down's syndrome
+(Zelazo et al., 1996), Williams syndrome (Lo et al., 2013), cerebral palsy (Dahlgren, 2002; Caillies
+et al., 2012), Parkinson's (Saltzman et al., 2000), Fragile X (Cornish et al., 2005), epilepsy (Raud
+et al., 2015), and more (Benson et al., 1993; Yirmiya et al., 1996; Zelazo et al., 1996; Benson et al.,
+1993; Payne et al., 1995; Reidy et al., 2013; Rasmussen et al., 2009).
+
+10
+AUTISM & THE PSEUDOSCIENCE OF MIND
+implies that theory of mind does not have causal precedence for explaining autism.
+This fact has led some researchers to broaden the definition of "theory of mind" to
+include precursors, such as eye-gaze detection and shared attention (Baron-Cohen,
+1994, 1995). However, this broadening of criteria leads to a circularity whereby the
+earliest behavioural signs of autism are defined as components of a theory-of-mind
+deficit (Hughes and Leekam, 2004; Pellicano, 2011). Rather than being responsive
+to empirical evidence, this redefinition threatens to make the statement "autistics
+lack a theory of mind" only trivially true.
+Thus, purported theory-of-mind deficits are neither unique to nor universal in
+autistics, and the theory-mind-deficit explanation of autism lacks causal precedence
+and explanatory power. From these facts, it follows that the theory-of-mind-deficit
+explanation is inadequate as an cognitive model of autism.
+In addition to being a poor causal model, Gernsbacher and Yergeau (2019) thor-
+oughly document key empirical failures of tests that purport to measure theory
+of mind. Besides the lack of specificity (uniqueness) and universality with regard
+to autistics' failing theory-of-mind tasks mentioned above, many of the tasks pro-
+posed to assess theory of mind fail to converge. For example, "strange stories" fails
+to correlate with "reading the mind in the eyes", "animated triangles", and "faux
+pas" tasks, particularly when language comprehension is controlled.10 Similarly,
+"reading the mind in the eyes" fails to correlate significantly with the "faux pas",
+"animated triangles", "false belief", and other theory-of-mind tasks.11 Moreover,
+false-belief tasks can fail to correlate significantly with one another.12 Gernsbacher
+and Yergeau (2019) suggest that the lack of convergent validity among theory-of-
+mind tasks undermines the degree to which these tasks actually measure theory of
+mind in participants—i.e., construct validity.
+At the same time, a lack of theory of mind should entail difficulty with several
+distinct social abilities—e.g., social attention, cooperation, anticipation, persuasion,
+deception, avoidance, etc. However, studies have demonstrated that autistics of all
+ages can understand others' intentions, goals, and desires.13
+10See Spek et al. (2010); Ahmed and Miller (2011); Scherzer et al. (2012); Vetter et al. (2013);
+Hollocks et al. (2014); Wilson et al. (2014); Chen et al. (2017); Lukito et al. (2017) and discussion
+in Gernsbacher (2018); Gernsbacher and Yergeau (2019).
+11See Ozonoff et al. (1991a); Bora et al. (2005); Spek et al. (2010); Ahmed and Miller (2011);
+Duval et al. (2011); Gooding and Pflum (2011); White et al. (2011); Scherzer et al. (2012); Li
+et al. (2013); Hollocks et al. (2014); Chen et al. (2017); Lukito et al. (2017), and discussion in
+Gernsbacher (2018); Gernsbacher and Yergeau (2019).
+12See Charman and Campbell (1997); Hughes (1998); Duval et al. (2011), and discussion in
+Gernsbacher (2018); Gernsbacher and Yergeau (2019).
+13See, e.g., Aldridge et al. (2000); Carpenter et al. (2001); Russell and Hill (2001); Kerr and
+Durkin (2004); Ponnet et al. (2005); Sebanz et al. (2005); Hubert et al. (2007); Liebal et al.
+(2008); Colombi et al. (2009); Falck-Ytter (2010); Channon et al. (2011); McAleer et al. (2011);
+Vivanti et al. (2011); Fitzpatrick et al. (2013); Berger and Ingersoll (2014); Forgeot d'Arc et al.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+11
+Finally, reproducing studies' results is one of the cornerstones of scientific in-
+quiry. Nonetheless, the findings of many highly-cited studies have failed to replicate.
+Contrary to the findings of Baron-Cohen et al. (1985), subsequent studies found
+no statistically significant differences between autistic and non-autistic groups on
+first-order false-belief tasks.14 Gernsbacher and Yergeau (2019) enumerate simi-
+lar failures to reproduce the experimental results of second-order false-belief tasks
+(Baron-Cohen, 1989) and strange stories tasks (Happ´e, 1994a).
+All this research together suggests that the theory-of-mind-deficit theory of
+autism is bad science. (Of course, this has not prevented outlandish claims about
+autistics lacking a theory of mind.) In the next section, I argue that the theory-of-
+mind-deficit explanation of autism is not merely bad science but pseudoscience.
+6. The Pseudoscience of Mind
+Following the fundamental issue at the heart of demarcating science from pseu-
+doscience (Fuller, 1985, 331), we can ask: Are beliefs about autistics' purported
+lack of a theory of mind epistemically warranted? Although there is disagreement
+about general principles for demarcating science and pseudoscience, there is more
+agreement on individual cases (Hansson, 2021). Although I will examine alternative
+criteria below, I begin with the classic Popperian approach to demarcation which
+suggests that for a hypothesis to be scientific, it must be falsifiable—in the sense
+that "statements or systems of statements . . . must be capable of conflicting with
+possible, or conceivable observations" (Popper, 1962, 32). In this case, a theoretical
+sentence is falsifiable just in case it logically contradicts some empirical sentence
+that describes a logically possible event that it would be logically possible to ob-
+serve (Hansson, 2021). In this sense, good science is supposed to be risky. So, good
+scientific theories consist of highly-falsifiable statements that have been well-tested
+and, thus far, not falsified.
+However, as has already been noted, even the earliest research shows that many
+autistic subjects pass tests that purport to measure theory-of-mind abilities. On
+the assumption that neurotypicals passing these tasks implies that they have a
+functioning theory of mind, it should presumably follow that autistics passing these
+tasks implies they have a functioning theory of mind. Indeed, early on in this
+research, Happ´e (1994a) notes that the success of autistic subjects at false-belief
+tasks "could be regarded as genuine proof of their possessing a theory of mind"
+(130). On the falsifiability criterion for demarcating science from pseudoscience,
+(2016); Green et al. (2017); Cole et al. (2018); Li et al. (2019) and discussion in Gernsbacher and
+Yergeau (2019).
+14See Oswald and Ollendick (1989); Dahlgren and Trillingsgaard (1996); Yirmiya and Shulman
+(1996); Yirmiya et al. (1996); Russell and Hill (2001); Moran et al. (2011); Fitzpatrick et al. (2013),
+and discussion in Gernsbacher (2018); Gernsbacher and Yergeau (2019).
+
+12
+AUTISM & THE PSEUDOSCIENCE OF MIND
+theory-of-mind-deficit theory of autism is indeed scientific—insofar as the claim
+that autistics lack a theory of mind is, in principle, falsifiable. It just happens that
+this is also bad science insofar as the theoretical sentences comprising the theory-
+of-mind-deficit theory of autism have been repeatedly contradicted by empirical
+statements of fact—i.e., falsified.
+Unfortunately, the state of inquiry surrounding theory of mind and autism is
+more pernicious than this. Although Happ´e (1994a) admits that the success of
+autistic subjects at false-belief tasks "could be regarded" as evidence against the
+theory-of-mind deficit in autistics, she continues: "Alternatively, their success could
+be seen not as proof of theory-of-mind ability but rather as evidence of the 'hack-
+ing out' of some strategy for solving the tasks" (130). Thus, researchers create
+new measures when existing measures fail to support the claim that autistics lack
+a theory of mind.15 Some have argued that non-autistic clinical groups may fail
+false-belief tasks for reasons other than a "genuine" representational deficit (Baron-
+Cohen, 2000; Tager-Flusberg, 2001). Researchers have previously argued that al-
+though some autistics could pass first-order false-belief tasks, they still failed at
+(more difficult) second-order false-belief tasks (Baron-Cohen, 1989). This practice
+underscores the moving goalposts of the theory-of-mind explanation of autism.
+There is a dilemma hidden here, which can be summarised as follows. If we accept
+that tasks which purport to measure theory-of-mind ability are good proxies, then
+the theory-of-mind-deficit explanation of autism is falsifiable (so perhaps scientific)
+but also falsified. Hence, the researchers who persist with attempts to demonstrate
+a lack of theory of mind in autistics are acting unscientifically. On the other hand, if
+the explanation for why tasks that purport to measure theory-of-mind abilities fail
+to do so is because they are not good proxies, or if contrary evidence is explained
+away by defining autism as involving a lack of theory of mind, then the statement
+"autistics lack a theory of mind" becomes unfalsifiable and hence pseudoscientific.
+Let us examine the second horn first. We have already seen that studies have
+demonstrated that autistics can understand others' intentions, goals, and desires—
+prototypical theory-of-mind abilities. At the same time, autistics sometimes fail
+tasks that purport to measure theory of mind. These two facts suggest that these
+tasks do not actually measure theory-of-mind abilities; hence, they are bad proxies.
+(Recall that many such tasks are better indicators of linguistic ability than theory-
+of-mind ability.)
+15This is a stunning example of Goodhart's Law: when a measure becomes a target, it ceases to
+be a good measure.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+13
+Furthermore, several of these tasks lack a ground truth because the "correct" an-
+swers to the experimenter's questions are context-relative. For example, the reading-
+the-mind-in-the-eyes task presupposed that emotions can be read from static im-
+ages, but emotions are highly dependent upon context and culture (Pugh et al.,
+2021). Considering the Sally-Anne test, researchers assume that the "correct" an-
+swer is that the marble is in the box; however, autistics have underscored competing
+explanations, the plausibility of which highlight the lack of objective truth about
+the matter. For example, one commentator wonders whether the results might differ
+if the dolls were presented as children rather than adults. This question reflects a
+belief, which some children might hold, that adults simply know things, and hence
+Sally would know that the marble is in the box (Blackburn et al., 2019).
+Part of the point worth highlighting here is that autistic ways of thinking often
+differ from neurotypical ways of thinking. Indeed, the Sally-Anne test suggests that
+even if the participant could not know something in a given situation (e.g., if she
+were in Sally's position), this does not imply that someone else would not be able
+to know something in the same situation. Again, knowledge here is highly context-
+dependent, and an individual might have different reasons for believing something
+in light of having, e.g., different background knowledge. Consider, for example, that
+Anne always moves Sally's marble from the basket to the box. Suppose also that
+Sally and Anne are good friends—i.e., Sally knows that Anne is always up to some
+mischief. Hence, when Sally leaves the scene and comes back, she might think,
+"Anne probably moved my marble again", and look in the box rather than the
+basket.
+This rationalisation might sound utterly ad hoc; however, it is worth noting
+that all the co-authors of Baron-Cohen et al. (1985) frequently refer to Anne as
+"naughty Anne" in writing (Frith, 1989, 1991, 1998, 2001, 2008; Frith and Happ´e,
+1999; Leslie, 1992; Baron-Cohen, 2003a). It is unclear whether this is the language
+that the experimenter uses in practice; however, if it is, then there is no reason
+why a subject might not pick up on this and consider that in her answer.16 Rather
+than lacking a theory of mind, such an analysis suggests that autistics are more
+adept at such tasks as they do not "jump to conclusions", in the way that the
+(neurotypical) experimenters clearly expect the subject to do. Thus, autistics have
+aptly highlighted that the "correct" answer to the Sally-Anne task is not "Sally
+will look for the marble in the basket"; a better answer is something akin to, "It is
+very likely that Sally will look for the marble in the basket, but it is not impossible
+16As far as I am aware, there are no scripts or transcripts from the original experiment in 1985;
+however, in several video recordings demonstrating the Sally-Anne task, the experimenter does
+indeed refer to Anne as "naughty Anne" or "tricky Anne".
+
+14
+AUTISM & THE PSEUDOSCIENCE OF MIND
+that she will look in the box, or maybe in some other place, or she may not look
+for the marble at all" (Blackburn et al., 2019).
+Researchers interested in measuring theory of mind in autism have typically
+ignored the possibility that autistics' passing these tasks demonstrates theory-of-
+mind abilities.17 This, of course, is despite ample evidence to the contrary and also
+despite the irrefutable position that neurotypicals' success on these tasks demon-
+strates theory of mind. For example, Bloom and German (2000) suggest that
+Some [autistic individuals] fail the false belief task because they lack
+the capacity to acquire a theory of mind. In contrast, [typically-
+developing] 3-year-olds might fail the false belief task because of
+general task demands, because they don't have a grasp of false
+belief, or both. But [the typically-developing children] surely have
+a "theory of mind", in the general sense of having a sophisticated
+ability to reason about the mental states; this is precisely why they
+differ from autistic individuals in the social, communicative, and
+imaginative domains. (B29)
+Hence, in practice, theory-of-mind abilities are taken for granted in neurotypicals,
+whereas theory-of-mind deficits come to define autism. Barnbaum (2008) goes so
+far as to suggest that the "whole point of theory of mind deficits is that the lack of
+theory of mind is a fundamental deficit that is characteristic of autism: If he did not
+have a compromised theory of mind, he would not be autistic" (Barnbaum, 2008,
+160). Thus, the claim that "autistics lack a theory of mind" becomes analytic; hence,
+this statement is unfalsifiable. Once researchers have decided that autistics lack a
+theory of mind, no evidence could prove this false. The catch-22 here is that a lack of
+a theory of mind is taken to imply a lack of a theory of one's own mind (Carruthers,
+1996). Hence, autistic testimony to the effect "I have a theory of mind" can be waved
+away on this account. For example, in response to an autistic subject's first-personal
+report about his inner experience, Frith and Happ´e (1999) write, "Very little of this
+description seemed believable" (13).18 This is pseudoscience.
+Now let us examine the first horn of the dilemma. Suppose that tasks purport-
+ing to measure theory-of-mind abilities are good proxies. In this case, the claim
+"autistics lack a theory of mind" has been falsified. Nonetheless, researchers persist
+in repeating the claim, devising increasingly challenging experiments to attempt to
+prove it.
+17See, for example, the ad hoc explanations given by Happ´e (1994a,b, 1995); Frith et al. (1994);
+Tager-Flusberg (2001); Baron-Cohen (2006), and the criticism of this logic in Gernsbacher and
+Yergeau (2019).
+18One might reasonably wonder how the authors could know this.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+15
+Sometimes, in the history of science, practising scientists do not abandon a theory
+in light of falsifying empirical evidence. Sometimes, in the history of science, this is
+okay. For example, Newtonian celestial mechanics is falsified by the precession of the
+perihelion of Mercury. However, despite empirical evidence contradicting the theory,
+researchers did not abandon Newtonian mechanics; instead, they formulated new
+explanations that would allow them to hold on to the theory while explaining away
+the empirical observations that contradicted it—e.g., the existence of a hitherto
+unobserved planet could affect the perihelion of Mercury in such a way that the
+observations maintain consistency with Newtonian mechanics.
+On Popper's (1962) criterion, one might think that this is unscientific. However,
+Lakatos (1970) contends that scientists were right not to abandon Newtonian me-
+chanics. In this case, the theory was particularly useful, so there was good pragmatic
+reason not to abandon it despite falsifying evidence. Furthermore, this is often how
+science works when considering the sociology of scientific practice and a pragmatic
+epistemology of science (Waters, 2019). Hence, Popper's falsifiability criterion for
+demarcating science and pseudoscience is too restrictive.
+Lakatos's (1970) notion of methodological falsification posits a sequence of theo-
+ries, called a research programme, which includes a shared "hard core" in addition
+to auxiliary hypotheses. The auxiliary hypotheses connect the programme's hard
+core to the empirical world (via predictions) while also "protecting" the hard core,
+making it effectively irrefutable. In this case, the combination of the hard core and
+the auxiliary hypotheses are subject to empirical tests; therefore, a programme, on
+the whole, is (in principle) falsifiable. When an empirical prediction turns out to be
+false, science progresses by retaining the hard core of the programme and construct-
+ing new auxiliary hypotheses. In this case, a research programme is called progres-
+sive if it is both theoretically progressive—meaning that the hard core plus auxiliary
+hypotheses predict novel empirical facts—and experimentally progressive—meaning
+that some of the novel empirical facts predicted by the theory can be tested. Here,
+"novelty" means that a prediction is not furnished by a previous theory in the
+sequence and is not predicted by competing theories (or conventional wisdom).
+Thus, theoretical progressiveness requires that each new theory in a research
+programme (a sequence of theories) should have excess empirical content over and
+above its predecessor. In contrast, a research programme is degenerating just in
+case it either does not predict novel facts (theoretically degenerating) or none of
+the novel facts it predicts can be tested (experimentally degenerating). Hence we
+can demarcate good and bad science (or genuine and pseudoscience) as follows. A
+
+16
+AUTISM & THE PSEUDOSCIENCE OF MIND
+sequence of theories is good science if it is progressive and bad if it is degener-
+ating; furthermore, a research programme may degenerate so much as to become
+pseudoscience.19
+By analogy, just as scientists did not abandon Newtonian mechanics despite fal-
+sifying evidence, we might think that researchers have not abandoned the theory-of-
+mind-deficit explanation of autism despite falsifying evidence. The question, then,
+is whether this is warranted.
+It is easier to demarcate the components of a research programme in historical
+cases than contemporary ones because we have the benefit of hindsight. For exam-
+ple, when considering the precession of the perihelion of Mercury, we can clearly
+differentiate the hard core—Newtonian mechanics—from the auxiliary hypotheses.
+In the case of the theory-of-mind-deficit explanation of autism, however, it is less
+clear whether a lack of theory of mind constitutes the research programme's hard
+core or an auxiliary hypothesis. If the former, then the theory-of-mind-deficit expla-
+nation of autism should be protected from falsification. However, the hard core of a
+research programme is not typically empirical. For example, Newtonian mechanics
+can be used to predict the movement of celestial bodies, but it will not tell you
+anything about what the night sky actually looks like. (To know this, one must go
+into the world and observe the stars.) This is why the auxiliary hypotheses serve
+to connect the hard core to the empirical world by positing statements that are
+testable and so require empirical observation. A lack of theory of mind would have
+empirical consequences, so it appears to be an auxiliary hypothesis.
+Of course, it may be the case that Newtonian mechanics, as the hard core of
+a research programme, does have some empirical content which happens to be
+highly abstract. At the same time, it is probably more difficult to clearly separate
+the "purely" theoretical versus empirical components of psychology that it is with
+theoretical physics, insofar as any psychological theory is bound to have some em-
+pirical content. Notwithstanding, it seems more apt to describe the theory as an
+auxiliary hypothesis in a research programme whose hard core involves some broad
+generalisations of psychology—e.g., that there are such things as mental states,
+that mental states depend on brain states, that some generalisations about them
+can be explained genetically whereas others require an environmental basis, etc.
+Such a hard core presumably consists of the sorts of claims that guide psycholog-
+ical model-building in general. A specific claim about a cognitive explanation in
+a specific branch of psychology—such as the theory-of-mind-deficit explanation of
+autism—is far too narrow to serve as part of a hard core of a scientific research
+programme, in Lakatos' sense.
+19Note that the distinct questions of whether something is scientific or pseudoscientific and
+whether something is good or bad science are collapsed into a single axis on this account.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+17
+Furthermore, for this horn, we assumed that tests of theory-of-mind abilities are
+good proxies—i.e., they actually measure theory of mind to some degree. It follows
+that this auxiliary hypothesis has been repeatedly falsified in light of the empirical
+evidence discussed in Section 5. Hence, the facts predicted by the theory have
+failed to be borne out, implying that the theory is experimentally degenerating. As
+it happens, the theory is also theoretically degenerating insofar as it lacks excess
+empirical content. Once again, novelty is time-relative on this account. So, even
+if the predictions furnished by the theory-of-mind-deficit explanation of autism
+were novel in 1985, the explanation is no longer theoretically progressive.20 Thus,
+it is somewhat over-determined that theory-of-mind-deficit explanations of autism
+constitute a degenerating research programme.
+Both horns of the dilemma lead to the same conclusion. Hence, beliefs about
+autistics' purported lack of a theory of mind are not epistemically warranted. This
+research programme is not merely bad science; it is pseudoscientific.
+At the same time, however, autistic researchers have proposed alternative expla-
+nations to the theory-of-mind-deficit explanation of autism. For example, monotrop-
+ism theory suggests that autistics' interests direct attention more strongly than in
+non-autistics (Murray et al., 2005). This view accounts for autistic inertia, sensory
+differences, social differences, and focused interests inherent to autistics without in-
+voking pathologising, deficit-based language (Murray, 2018). Similarly, the double
+empathy problem (Milton, 2012; Milton et al., 2022) argues that the apparent social
+and communicative difficulties observed in autistics that have led to the claim that
+they lack a theory of mind are actually due to a reciprocal lack of understand-
+ing and bidirectional differences in communication style, social-cognitive charac-
+teristics, and experiences between different neurotypes (Crompton et al., 2020c).
+Hence, mismatches in communication styles can contribute to autistic social difficul-
+ties (Davis and Crompton, 2021). These proposals constitute good science insofar
+as they are falsifiable and they generate novel predictions. Recent research on intra-
+and inter-neurotype information transfer has provided empirical evidence support-
+ing the double-empathy problem (Crompton et al., 2020a,b,c), the findings of which
+are inconsistent with the social-cognitive deficit narrative of autism.
+20Attempts have been made to re-invigorate the theory's novelty, thus salvaging the claim that
+autistics lack a theory of mind. For example, admitting that a theory-of-mind deficit could only
+account for the social aspects of ASD, Baron-Cohen (2002, 2003b, 2010) has embedded "mind-
+blindness" within a larger theory dubbed the "extreme male brain" theory of autism (sometimes
+called the "empathising-systematising (E-S)" theory of autism). However, it is not obvious that
+sexing the brain makes the theory-of-mind-deficit explanation of autism better. Instead, it trades
+one falsehood for another. Rippon (2020) aptly refers to this theory as "neurotrash". See Krahn
+and Fenton (2012a); Sample (2013); Ridley (2019) for lucid criticisms.
+
+18
+AUTISM & THE PSEUDOSCIENCE OF MIND
+7. The Normativity of Mind
+Much of the research discussed in the previous sections might be called "primary"
+insofar as it includes on-the-ground experiments and novel data. When consider-
+ing how philosophers engage with autism, the literature is typically secondary—
+philosophers usually cite the primary experimental literature rather than conduct-
+ing experiments themselves. Given the apparent contingent of researchers in the
+primary literature that are inexplicably wedded to the claim that autistics lack a
+theory of mind in some form, this implies that the claims are repeated by philoso-
+phers. And, indeed they are: philosophers referencing this literature simply take for
+granted that autistics lack a theory of mind. Beginning from this assumption, this
+secondary (philosophical) literature proceeds to draw out the logical entailments of
+this "fact".
+For example, we have already seen that if autistics lack a theory of mind, then
+autistics lack a theory of their own minds—i.e., they lack self-consciousness (Frith
+and Happ´e, 1999)—which in turn implies that they lack (first-personal) epistemic
+authority (Carruthers, 1996) or they lack the property of moral personhood (Warren,
+1973). Furthermore, if autistics lack the property of moral personhood, then they
+presumably do not have full and equal moral rights (Warren, 1973), or they are
+not deemed members of the moral community (Benn, 1999)—i.e., those individuals
+with whom others share moral obligations.
+These considerations seem to empower neurotypicals to enact epistemic injustices
+toward autistics on the assumption that they do not know any better.21 The in-
+built testimonial injustice following from a lack of theory of mind reinforces the view
+since no evidence to the contrary—e.g., autistics uttering propositions like "I do not
+lack a theory of mind"—needs to be taken seriously. The exclusion of autistics from
+the moral community also raises questions about autistics' right to life, which can
+be used to justify research funding on the prevention of autism via genetics—i.e.,
+eugenics programmes which are couched in the language of a "cure".22
+21As a salient example of this brand of ableism, in 2023, several states in the USA passed bills
+that restrict gender-affirming care, mentioning autism by name as a justification. For example,
+the state of Georgia's S.B.140 says that because gender dysphoria is "often comorbid with other
+mental health and developmental conditions, including autism spectrum disorder", certain surgical
+procedures for the treatment of gender dysphoria in minors should be prohibited (Georgia General
+Assembly, 2023). The logic here is that autistics do not know themselves; thus, when an autistic
+says, "I am trans", they can be ignored. Among other things, these laws provide further evidence
+in favour of the claim that ableism is the packaging with which transphobia is delivered (Smilges,
+2022a). See also Smilges (2022b, 2023).
+22Several reviews have shown that a majority of research funding in the field of autism is devoted
+to "basic science", including genetics and other "risk factors" (Singh et al., 2009; Krahn and
+Fenton, 2012b; Pellicano et al., 2014), although autistic communities have advocated for increased
+research on how public services can best meet the needs of autistics (Fletcher-Watson et al., 2017;
+den Houting and Pellicano, 2019; Roche et al., 2021).
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+19
+At the same time, if autistics are not members of the moral community, then ad-
+vocating for eugenics to eradicate autism may be taken to be defensible (Barnbaum,
+2008).
+Examining a different line of entailments, if autistics lack a theory of mind, then
+if theory of mind is a subset of empathy, as some have claimed (Baron-Cohen,
+2002, 2003b, 2009, 2011; Baron-Cohen and Wheelwright, 2004), then it logically
+follows that autistics lack empathy (Chapman et al., 2006; Knickmeyer et al., 2006;
+Chura et al., 2010; Auyeung et al., 2010a,b; van Honk et al., 2011). If autistics
+lack empathy, then they cannot live the "good life"—at least on those accounts of
+the good life that require empathy (Nussbaum, 2006). Indeed, some philosophers
+have explicitly argued that "living an autistic life is not, ceteris paribus, as good
+a human life as that child's life had he not been born autistic" (Barnbaum, 2008,
+149). Similarly, if autistics lack a theory of mind, and if theory of mind is one of
+the quintessential abilities that makes humans human (Baron-Cohen et al., 1985),
+it logically follows that autistics are not fully human.23
+Moreover, if autistics lack a theory of mind, a community of autistic persons
+is impossible (Barnbaum, 2008).Although some are more obvious or explicit than
+others, all of the above claims are equally dehumanising to autistics.24 It should be
+clear at this point that much philosophical work on autism falls under ethics, phi-
+losophy of mind, philosophy of psychology, or philosophy of medicine and bioethics
+(B¨olte and Richman, 2018). That said, the upshot of an analysis of pseudoscientific
+approaches to autism research is that there are obvious ways in which the philoso-
+phy of science can positively benefit autism research and, indeed, benefit autistics.
+Importantly, however, this research must avoid succumbing to the current standard
+of research-based violence, which the autistic scholar Monique Botha defines as "a
+form of systemic violence perpetuated through societal systems" (Botha, 2021, 4),
+such as, for example, the academy.25
+8. Conclusion
+The theory-of-mind-deficit explanation of autistic behaviour is inadequate as a
+model insofar as a failure on tasks intended to measure theory-of-mind abilities
+is neither universal amongst nor unique to autistics, and theory-of-mind abilities
+lack causal precedence and explanatory power. At the same time, these tests lack
+23I am not aware of any philosopher who actually draws this consequence, but it is a logical
+entailment had by claims that philosophers do make.
+24In this case, dehumanisation can be variously defined as the denial of full humanness to others
+(Haslam, 2006), the denial of specific traits which are said to unite all humans or separate humans
+from non-human animals (Haslam, 2006), the denial of a group's ability to experience complex
+emotions (Leyens et al., 2000), the exclusion of a group from moral boundaries (Opotow, 1990), or
+the denial of a group's community or identity (Kelman, 1973). See the discussion in Botha (2021).
+25See also the discussion of epistemological violence in Teo (2010).
+
+20
+AUTISM & THE PSEUDOSCIENCE OF MIND
+convergent validity, implying that theory of mind (in the context of autism) lacks
+construct validity. The results of studies of theory-of-mind abilities often contradict
+the popular conception that autistics lack a theory of mind. Taken together, these
+facts should uncontroversially suggest that the "science" of theory of mind is bad
+science.
+Moreover, the theory-of-mind-deficit explanation of autism, I have argued, has all
+the hallmarks of a degenerating research programme. These characteristics move the
+programme from merely bad science to genuine pseudoscience. To some extent, this
+should be unsurprising, insofar as autism, through history, has been no stranger to
+pseudoscientific claims—for example, "refrigerator mothers" cause autism (Bettel-
+heim, 1967); "vaccines cause autism", etc. There is also a highly predatory industry
+predicated on offering cures and treatments for autism, including forcing autistic
+children to drink bleach, receive bleach enemas, undergo chelation, or be subjected
+to ABA therapy. The pseudoscientific features of the theory-of-mind-deficit expla-
+nation of autism are particularly pernicious when we consider that philosophers
+often uncritically assume that autistics lack a theory of mind. More than an idle
+thought experiment, the repetition of this view by philosophers serves to further
+stigmatise and dehumanise autistics while further entrenching violent dominance
+hierarchies.
+Acknowledgements. This article is part of the research project, Philosophy on
+the Spectrum: The Philosophy of Autism and Autistic Philosophy, which is sup-
+ported in part by funding from the Social Sciences and Humanities Research Coun-
+cil. Further information can be found at autphi.github.io. Thanks to audiences at
+the Canadian Society for the History and Philosophy of Science (CSHPS 2023) in
+Toronto, the Atlantic Regional Philosophers Association (ARPA 2023) in Charlot-
+tetown, and the Philosophy Department Colloquium Series at Dalhousie University
+(2023) in Halifax. Especial thanks to Amelia Hicks and the NeuroDiving Podcast
+(https://NeuroDiving.fm) for an extensive, stimulating discussion about theory of
+mind and pseudoscience. Thanks also to Tyler Hildebrand, Cailin O'Connor, Lynn
+LaCroix, Duncan McIntosh, Andrew Fenton, Michael Hymers, Emma McClure, and
+Mark Fortney for feedback and discussion on early drafts.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+21
+References
+Abell, Frances, Frances Happ´e, and Uta Frith (2000). Do triangles play tricks? Attribution
+of mental states to animated shapes in normal and abnormal development. Cognitive
+Development, 15(1): 1-16.
+Ahmed, Fayeza S. and L. Stephen Miller (2011). Executive function mechanisms of theory
+of mind. Journal of autism and developmental disorders, 41: 667-678.
+Aldridge, Michelle A., Kari R. Stone, Melissa H. Sweeney, and T. G. R. Bower (2000).
+Preverbal children with autism understand the intentions of others.
+Developmental
+Science, 3(3): 294-301.
+APA, American Psychiatric Association (1952).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-I.
+American Psychiatric Association, Washington, DC, 1st
+edition.
+APA, American Psychiatric Association (1958).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-II. American Psychiatric Association, Washington, DC, 2nd
+edition.
+APA, American Psychiatric Association (1980).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-III. American Psychiatric Association, Washington, DC, 3rd
+edition.
+APA, American Psychiatric Association (1987).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-III-R.
+American Psychiatric Association, Washington, DC,
+3rd, revised edition.
+APA, American Psychiatric Association (1994).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-IV. American Psychiatric Association, Washington, DC, 4th
+edition.
+APA, American Psychiatric Association (2000).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-IV-TR. American Psychiatric Association, Washington, DC,
+4th, text revised edition.
+APA, American Psychiatric Association (2013).
+Diagnostic and Statistical Manual of
+Mental Disorders: DSM-5.
+American Psychiatric Association, Washington, DC, 5th
+edition.
+Asperger, Hans (1944). Die ,,autistischen psychopathen" im kindesalter. Archiv f¨ur psy-
+chiatrie und nervenkrankheiten, 117(1): 76-136.
+Auyeung, Bonnie, Simon Baron-Cohen, Emma Ashwin, Rebecca Knickmeyer, Kevin Tay-
+lor, and Gerald Hackett (2010a). Fetal testosterone and autistic traits. British Journal
+of Psychology, 100(1): 1-22.
+Auyeung, Bonnie, Kevin Taylor, Gerald Hackett, and Simon Baron-Cohen (2010b). Foetal
+testosterone and autistic traits in 18 to 24-month-old children.
+Molecular Autism,
+1(11): 1-8.
+Bailey, Anthony, Wendy Phillips, and Michael Rutter (1996). Autism: towards an integra-
+tion of clinical, genetic, neuropsychological, and neurobiological perspectives. Journal
+of Child Psychology and Psychiatry, 37(1): 89-126.
+Barnbaum, Deborah R. (2008). The Ethics of Autism: Among Them, but Not of Them.
+Indiana University Press, Bloomington, IN.
+Baron-Cohen, Simon (1989). The autistic child's theory of mind: a case of specific devel-
+opmental delay. The Journal of Child Psychology and Psychiatry, 30(2): 285-297.
+Baron-Cohen, Simon (1993). From attention-goal psychology to belief-desire psychology:
+The development of a theory of mind, and its dysfunction. In Baron-Cohen, Simon,
+Helen Tager-Flusberg, and Donald J. Cohen, editors, Understanding Other Minds: Per-
+spectives from Autism, pages 59-82. Oxford University Press, Oxford.
+Baron-Cohen, Simon (1994). How to build a baby that can read minds: Cognitive mech-
+anisms in mindreading. Cahiers de Psychologie Cognitive, 13(6): 513-552.
+
+22
+AUTISM & THE PSEUDOSCIENCE OF MIND
+Baron-Cohen, Simon (1995). Mindblindness: an Essay on Autism and Theory of Mind.
+The MIT Press, Cambridge, MA.
+Baron-Cohen, Simon (2000). Theory of mind and autism: A review. International Review
+of Research in Mental Retardation, 23: 169-184.
+Baron-Cohen, Simon (2002).
+The Extreme Male Brain Theory of Autism.
+Trends in
+Cognitive Science, 6(6): 248-254.
+Baron-Cohen, Simon (2003a). Autism and Asperger Syndrome. Oxford University Press,
+Oxford.
+Baron-Cohen, Simon (2003b). The Essential Difference: Male And Female Brains And
+The Truth About Autism. Basic Books, New York.
+Baron-Cohen, Simon (2006). The hyper-systemizing, assortative mating theory of autism.
+Progress in Neuro-Psychopharmacology & Biological Psychiatry, 30: 865-872.
+Baron-Cohen, Simon (2009). Autism: The Empathizing-Systematizing (E-S) Theory. An-
+nals of the New York Academy of Sciences, 1156: 68-80.
+Baron-Cohen, Simon (2010). Empathizing, systemizing, and the extreme male brain theory
+of autism. Progress in Brain Research, 186: 167-175.
+Baron-Cohen, Simon (2011). Zero Degrees of Empathy: A New Theory of Human Cruelty.
+Penguin, New York.
+Baron-Cohen, Simon, Alan M. Leslie, and Uta Frith (1985). Does the Autistic Child Have
+a 'Theory of Mind?'. Cognition, 21(1): 37-46.
+Baron-Cohen, Simon, Michelle O'Riordan, Rosie Jones, Valerie Stone, and Kate Plaisted
+(1999). A new test of social sensitivity: Detection of faux pas in normal children and
+children with Asperger syndrome.
+Journal of Autism and Developmental Disorders,
+29: 407-418.
+Baron-Cohen, S., H. Tager-Flusberg, and D. J. Cohen (2000). Understanding other Minds:
+Perspectives from Developmental Cognitive Neuroscience. Oxford University Press, Ox-
+ford.
+Baron-Cohen, Simon and Sally Wheelwright (2004). The empathy quotient: An investi-
+gation of adults with Asperger syndrome or high functioning autism, and normal sex
+differences. Journal of Autism and Developmental Disorders, 34(2): 163-175.
+Baron-Cohen, Simon, Sally Wheelwright, Jacqueline Hill, Yogini Raste, , and Ian Plumb
+(2001). The 'Reading the Mind in the Eyes' Test revised version: a study with normal
+adults, and adults with Asperger syndrome or high-functioning autism. The Journal of
+Child Psychology and Psychiatry and Allied Disciplines, 42(2): 241-251.
+Bauminger, Nirit and Connie Kasari (1999).
+Brief report: Theory of mind in high-
+functioning children with autism.
+Journal of autism and developmental disorders,
+29: 81-86.
+Bender, Lauretta (1954). Current research in childhood schizophrenia. American Journal
+of Psychiatry, 110(11): 855-856.
+Benn, Piers (1999). Freedom, Resentment, and the Psychopath. Philosophy, Psychiatry,
+& Psychology, 6(1): 29-39.
+Benson, Glenis, Leonard Abbeduto, Katherine Short, Jill B. Nuccio, and Fay Maas (1993).
+Development of theory of mind in individuals with mental retardation. American Jour-
+nal on Mental Retardation, 98(3): 427-433.
+Berger, Natalie I. and Brooke Ingersoll (2014). A further investigation of goal-directed
+intention understanding in young children with autism spectrum disorders. Journal of
+Autism and Developmental Disorders, 44: 3204-3214.
+Bettelheim, Bruno (1967). The Empty fortress: Infantile Autism and the Birth of the Self.
+Simon and Schuster, New York.
+Beversdorf, D. Q., J. M. Anderson, S. E. Manning, S. L. Anderson, R. E. Nordgren,
+G. J. Felopulos, S. E. Nadeau, K. M. Heilman, and M. L. Bauman (1998). The effect
+of semantic and emotional context on written recall for verbal language in high func-
+tioning adults with autism spectrum disorder. Journal of Neurology, Neurosurgery &
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+23
+Psychiatry, 65(5): 685-692.
+Bishop, D. V. M. (1989). Autism, Asperger's Syndrome and semantic-pragmatic disorder:
+where are the boundaries? British Journal of Disorders of Communication, 24(2): 107-
+121.
+Blackburn, J., K. Gottschewski, Elsa George, and Niki L. (2019).
+A discussion about
+theory of mind: From an autistic perspective from autism europe's congress 2000. Au-
+tonomy, the Critical Journal of Interdisciplinary Autism Studies, 1(6).
+Bloom, Paul and Tim P. German (2000). Two reasons to abandon the false belief task as
+a test of theory of mind. Cognition, 77: B25-B31.
+B¨olte, Sven and Kenneth A. Richman (2018). Hard talk: Does autism need philosophy.
+Autism, 23(1): 3-7.
+Bolton, P., H. Macdonald, A. Pickles, P. Rios, S. Goode, M. Crowson, A. Bailey, and
+M. Rutter (1994).
+A case-control family history study of autism.
+Journal of Child
+Psychology and Psychiatry, 35(5): 877-900.
+Bora, E., S. Vahip, A. S. Gonul, F. Akdeniz, M. Alkan, M. Ogut, and A. Eryavuz (2005).
+Evidence for theory of mind deficits in euthymic patients with bipolar disorder. Acta
+Psychiatrica Scandinavica, 110(116): 110-116.
+Botha, Monique (2021). Academic, activist, or advocate? angry, entangled, and emerg-
+ing: A critical reflection on autism knowledge production.
+Frontiers in Psychology,
+12(727542): 1-12.
+Botha, Monique, Jacqueline Hanlon, and Gemma Louise Williams (2021). Does language
+matter? identity-first versus person-first language use in autism research: A response to
+vivanti. Journal of Autism and Developmental Disorders, 53: 870-878.
+Boucher, J. (1996). What could possibly explain autism? In Carruthers, Peter and Peter K.
+Smith, editors, Theories of Theories of Mind, pages 223-241. Cambridge University
+Press, Cambridge.
+Boucher, Jill (2012). Putting theory of mind in its place: psychological explanations of
+the socio-emotional-communicative impairments in autistic spectrum disorder. Autism,
+16(3): 226-246.
+Bradshaw, Pia, Claire Pickett, Mieke L van Driel, Katie Brooker, and Anna Urbanowicz
+(2021). 'autistic' or 'with autism'? why the way general practitioners view and talk
+about autism matters. Australian Journal of General Practice, 50(3): 104-108.
+Brown, R., R. Hobson, A. Lee, and J. Stevenson (1997). 'are there 'autistic-like' features in
+congenitally blind children?'. Journal of Child Psychology and Psychiatry, 38: 693-703.
+Buitelaar, Jan K., Marleen van der Wees, Hanna Swaab-Barneveld, and Rutger Jan van
+der Gaag (1999). Verbal memory and performance iq predict theory of mind and emo-
+tion recognition ability in children with autistic spectrum disorders and in psychiatric
+control children. The Journal of Child Psychology and Psychiatry and Allied Disciplines,
+40(6): 869-881.
+Caillies, S., A. Hody, and A. Calmus (2012). Theory of mind and irony comprehension in
+children with cerebral palsy. Research in Developmental Disabilities, 33: 1380-1388.
+Carpenter, Malinda, Bruce F. Pennington, and Sally J. Rogers (2001). Understanding
+of others' intentions in children with autism.
+Journal of autism and developmental
+disorders, 31: 589-599.
+Carruthers, Peter (1996). Autism as mind-blindness: An elaboration and partial defence.
+In Carruthers, Peter and Peter K. Smith, editors, Theories of Theories of Mind, pages
+257-273. Cambridge University Press, Cambridge.
+Channon, Shelley, David Lagnado, Sian Fitzpatrick, Helena Drury, and Isabelle Taylor
+(2011). Judgments of cause and blame: Sensitivity to intentionality in asperger's syn-
+drome. Journal of Autism and Developmental Disorders, 41: 1534-1542.
+Chapman, Emma, Simon Baron-Cohen, Bonnie Auyeung, Rebecca Knickmeyer, Kevin
+Taylor, and Gerald Hackett (2006). Fetal testosterone and empathy: evidence from the
+empathy quotient (eq) and the "reading the mind in the eyes" test. Soc. Neurosci.,
+
+24
+AUTISM & THE PSEUDOSCIENCE OF MIND
+1(2): 135-148.
+Charman, Tony (2000). Theory of mind and the early diagnosis of autism. In Baron-
+Cohen, S., H. Tager-Flusberg, and D. J. Cohen, editors, Understanding other minds:
+Perspectives from developmental cognitive neuroscience, pages 422-441. Oxford Univer-
+sity Press, Oxford.
+Charman, Tony and Adam Campbell (1997). Reliability of theory of mind task perfor-
+mance by individuals with a learning disability: A research note.
+Journal of Child
+Psychology and Psychiatry, 38(6): 725-730.
+Chen, Kuan-Wei, Shih-Chieh Lee, Hsin-Yu Chiang, Ya-Cing Syu, Xiao-Xuan Yu, and
+Ching-Lin Hsieh (2017).
+Psychometric properties of three measures assessing ad-
+vanced theory of mind: Evidence from people with schizophrenia. Psychiatry Research,
+257: 490-496.
+Chura, Lindsay R., Michael V. Lombardo, Emma Ashwin, Bonnie Auyeung, Bhismadev
+Chakrabarti, Edward T. Bullmore, and Simon Baron-Cohen (2010).
+Organizational
+effects of fetal testosterone on human corpus callosum size and asymmetry. Psychoneu-
+roendocrinology, 35(1): 122-132.
+Cole, Eleanor J., Katie E. Slocombe, and Nick E. Barraclough (2018). Abilities to explicitly
+and implicitly infer intentions from actions in adults with autism spectrum disorder.
+Journal of Autism and Developmental Disorders, 48: 1712-1726.
+Colombi, Costanza, Kristin Liebal, Michael Tomasello, Gregory Young, Felix Warneken,
+and Sally J. Rogers (2009). Examining correlates of cooperation in autism: Imitation,
+joint attention, and understanding intentions. Autism, 13(2): 143-163.
+Cornish, K., J. A. Burack, A. Rahman, F. Munir, N. Russo, and C. Grant (2005). Theory
+of mind deficits in children with fragile x syndrome. Journal of Intellectual Disability
+Research, 49: 372-378.
+Crompton, Catherine J., Sonny Hallett, Danielle Ropar, Emma Flynn, and Sue Fletcher-
+Watson (2020a). 'i never realised everybody felt as happy as i do when i am around
+autistic people': A thematic analysis of autistic adults' relationships with autistic and
+neurotypical friends and family. Autism, 24(6): 1438-1448.
+Crompton, Catherine J., Danielle Ropar, Claire V. M. Evans-Williams, Emma G. Flynn,
+and Sue Fletcher-Watson (2020b). Autistic peer-to-peer information transfer is highly
+effective. Autism, 24(7): 1704-1712.
+Crompton, Catherine J., Martha Sharp, Harriet Axbey, Sue Fletcher-Watson, Emma G.
+Flynn, and Danielle Ropar (2020c). Neurotype-matching, but not being autistic, in-
+fluences self and observer ratings of interpersonal rapport.
+Frontiers in Psychology,
+11: 586171.
+Dahlgren, Sven Olof (2002). Why does the bus stop when I am not getting off? How do
+children with autism, Asperger syndrome, and dysfunction in attention motor control
+and perception (DAMP) conceptualize the surrounding world? PhD thesis, Goteborg
+University.
+Dahlgren, Sven Olof and Anegen Trillingsgaard (1996). Theory of mind in non-retarded
+children with autism and asperger's syndrome: A research note. Journal of Child Psy-
+chology and Psychiatry, 37(6): 759-763.
+Davis, Rachael and Catherine J. Crompton (2021). What do new findings about social
+interaction in autistic adults mean for neurodevelopmental research? Perspectives on
+Psychological Science, 16(3): 649-653.
+Dawson, G. and A. Adams (1984). Imitation and social responsiveness in autistic children.
+Journal of Abnormal Child Psychology, 12: 209-225.
+den Houting, Jacquiline and Elizabeth Pellicano (2019). A portfolio analysis of autism
+research funding in australia, 2008-2017. Journal of Autism and Developmental Disor-
+ders, 49: 4400-4408.
+Dennett, Daniel C. (1978). Beliefs about beliefs. The Behavioral and Brain Sciences,
+4: 568-570.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+25
+Duval, C´eline, Pascale Piolino, Alexandre Bejanin, Francis Eustache, and B´eatrice Des-
+granges (2011). Age effects on different components of theory of mind. Consciousness
+and cognition, 20(3): 627-642.
+Falck-Ytter, Terje (2010). Young children with autism spectrum disorder use predictive
+eye movements in action observation. Biology letters, 6(3): 375-378.
+Fitzpatrick, Paula, Rachel Diorio, Michael J. Richardson, and R. C. Schmidt (2013). Dy-
+namical methods for evaluating the time-dependent unfolding of social coordination in
+children with autism. Frontiers in integrative neuroscience, 7: 21.
+Fletcher-Watson, Sue, Fabio Apicella, Bonnie Auyeung, Stepanka Beranova, Frederique
+Bonnet-Brilhault, Ricardo Canal-Bedia, Tony Charman, Natasha Chericoni, Inˆes C
+Concei¸c˜ao, Kim Davies, Teresa Farroni, Marie Gomot, Emily Jones, Anett Kaale,
+Katarzyna Kapica, Rafal Kawa, Anneli Kylli¨ainen, Kenneth Larsen, Jeremy Lefort-
+Besnard, Joelle Malvy, Sara Manso De Dios, Silvana Markovska-Simoska, Inbal Millo,
+Natercia Miranda, Greg Pasco, Ewa Pisula, Marija Raleva, Bernadette Rog´e, Erica
+Salomone, Synnve Schjolberg, Przemys law Tomalski, Astrid M Vicente, and Nurit Yir-
+miya (2017). Attitudes of the autism community to early autism research. Autism,
+21(1): 61-74.
+Forgeot d'Arc, Baudouin, Fabien Vinckier, Ma¨el Lebreton, Isabelle Souli`eres, Laurent
+Mottron, and Mathias Pessiglione (2016). Mimetic desire in autism spectrum disorder.
+Molecular Autism, 7(1): 1-6.
+Frith, Uta (1970). Studies in pattern detection ii: Reproduction and production of colour
+sequences. Journal of Experimental Child Psychology, 10(3): 120-135.
+Frith, Uta (1972). Cognitive mechanisms in autism: Experiments with colour and tone
+sequence production. Journal of Autism and Childhood Schizophrenia, 10(3): 160-173.
+Frith, Uta (1989). Autism: Explaining the Enigma. Blackwell, Oxford.
+Frith, Uta (1991). Asperger and his syndrome. In Frith, Uta, editor, Autism and Asperger
+syndrome, pages 1-36. Cambridge University Press, Cambridge.
+Frith, Uta (1998). What autism teaches us about communication. Logopedics Phoniatrics
+Vocology, 23(2): 51-58.
+Frith, Uta (2001). Mind blindness and the brain in autism. Neuron, 32(6): 969-979.
+Frith, Uta (2003). Autism: Explaining the Enigma. Blackwell, Oxford, 2 edition.
+Frith, Uta (2008).
+Autism: A Very Short Introduction.
+Cambridge University Press,
+Cambridge.
+Frith, Uta and Francesca Happ´e (1994). Autism: Beyond 'theory of mind'. Cognition,
+50(3): 115-132.
+Frith, Uta and Francesca Happ´e (1999). Theory of mind and self-consciousness: What is
+it like to be autistic? Mind & language, 14(1): 82-89.
+Frith, Uta, Francesca Happ´e, and F. Siddons (1994).
+Autism and theory of mind in
+everyday life. Trends in Neurosciences, 3: 108-124.
+Frith, Uta, J. Morton, and Alan M. Leslie (1991).
+The cognitive basis of a biological
+disorder: Autism. Trends in Neurosciences, 14: 433-438.
+Fu, Jack M., F. Kyle Satterstrom, Minshi Peng, Harrison Brand, Ryan L. Collins, Shan
+Dong, Brie Wamsley, Lambertus Klei, Lily Wang, Stephanie P. Hao, Christine R.
+Stevens, Caroline Cusick, Mehrtash Babadi, Eric Banks, Brett Collins, Sheila Dodge,
+Stacey B. Gabriel, Laura Gauthier, Samuel K. Lee, Lindsay Liang, Alicia Ljungdahl,
+Behrang Mahjani, Laura Sloofman, Andrey N. Smirnov, Mafalda Barbosa, Catalina
+Betancur, Alfredo Brusco, Brian H. Y. Chung, Edwin H. Cook, Michael L. Cuccaro,
+Enrico Domenici, Giovanni Battista Ferrero, J. Jay Gargus, Gail E. Herman, Irva Hertz-
+Picciotto, Patricia Maciel, Dara S. Manoach, Maria Rita Passos-Bueno, Antonio M.
+Persico, Alessandra Renieri, James S. Sutcliffe, Flora Tassone, Elisabetta Trabetti,
+Gabriele Campos, Simona Cardaropoli, Diana Carli, Marcus C. Y. Chan, Chiara Fall-
+erini, Elisa Giorgio, Ana Cristina Girardi, Emily Hansen-Kiss, So Lun Lee, Carla Lintas,
+
+26
+AUTISM & THE PSEUDOSCIENCE OF MIND
+Yunin Ludena, Rachel Nguyen, Lisa Pavinato, Margaret Pericak-Vance, Isaac N. Pes-
+sah, Rebecca J. Schmidt, Moyra Smith, Claudia I. S. Costa, Slavica Trajkova, Jaqueline
+Y. T. Wang, Mullin H. C. Yu, The Autism Sequencing Consortium (ASC), Broad In-
+stitute Center for Common Disease Genomics (Broad-CCDG), iPSYCH BROAD Con-
+sortium, David J. Cutler, Silvia De Rubeis, Joseph D. Buxbaum, Mark J. Daly, Bernie
+Devlin, Kathryn Roeder, Stephan J. Sanders, and Michael E. Talkowski (2022). Rare
+coding variation provides insight into the genetic architecture and phenotypic context
+of autism. Nature, 54: 1320-3131.
+Fuller, Steve (1985). The demarcation of science: a problem whose demise has been greatly
+exaggerated. Pacific Philosophical Quarterly, 66: 329-341.
+Gallese, Vittorio and Corrado Sinigaglia (2011).
+What is so special about embodied
+simulation? Trends in Cognitive Sciences, 15(11): 512-519.
+Georgia General Assembly (2023). Senate bill 140. LC 33 9348 https://www.legis.ga.
+gov/api/legislation/document/20232024/214237.
+Gernsbacher, Morton Ann (2018).
+Critical review of autism and theory and mind: A
+technical report. Technical report, Open Science Framework.
+Gernsbacher, Morton Ann and Jennifer L. Frymiare (2005). Does the Autistic Brain Lack
+Core Modules? Journal of Developmental and Learning Disorders, 9: 3-16.
+Gernsbacher, Morton Ann and Melanie Yergeau (2019). Empirical Failures of the Claim
+That Autistic People Lack a Theory of Mind. Archives of Scientific Psychology, 7: 102-
+118.
+Gl¨uer, Kathrin and Peter Pagin (2003). Meaning theory and autistic speakers. Mind &
+Language, 18(1): 23-51.
+Gooding, Diane Carol and Madeline Johnson Pflum (2011). Theory of mind and psycho-
+metric schizotypy. Psychiatry Research, 188(2): 217-223.
+Goodman, Robert (1989).
+Infantile autism: A syndrome of multiple primary deficits?
+Journal of Autism and Developmental Disorders, 19: 409-424.
+Green, Adam E., Lauren Kenworthy, Natalie M. Gallagher, Ligia Antezana, Maya G.
+Mosner, Samantha Krieg, Katherina Dudley, Allison Ratto, and Benjamin E. Yerys
+(2017). Social analogical reasoning in school-aged children with autism spectrum dis-
+order and typically developing peers. Autism, 21(4): 403-411.
+Green, S., L. Pring, and J. Swettenham (2004). An investigation of first-order false belief
+understanding of children with congenital profound visual impairment. British Journal
+of Developmental Psychology, 22: 1-17.
+Hansson, Sven Ove (2021). Science and Pseudo-Science. In Zalta, Edward N., editor, The
+Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University,
+Fall 2021 edition.
+Happ´e, Francesca (2000). Parts and wholes, meaning and minds: Central coherence and
+its relation to theory of mind. In Baron-Cohen, Simon, Helen Tager-Flusberg, , and
+Donald J. Cohen, editors, Understanding Other Minds: Perspectives from Developmental
+Cognitive Neuroscience, pages 203-221. Oxford University Press, Oxford, 2 edition.
+Happ´e, Francesca G. and R. Booth (2008). The power of the positive: Revisiting weak
+coherence in autism spectrum disorders. Quarterly Journal of Experimental Psychology,
+61: 50-63.
+Happ´e, Francesca G. and Uta Frith (2008). The weak coherence account: detail-focused
+cognitive style in autism spectrum disorders. Journal of Autism and Developmental
+Disorders, 36: 5-25.
+Happ´e, Francesca G. E. (1994a). An advanced test of theory of mind: Understanding of
+story characters' thoughts and feelings by able autistic, mentally handicapped, and nor-
+mal children and adults. Journal of Autism and Developmental Disorders, 24(2): 129-
+154.
+Happ´e, Francesca G. E. (1994b). Annotation: Current psychological theories of autism:
+The 'theory of mind' account and rival theories.
+Journal of Child Psychology and
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+27
+Psychiatry, 35: 215-229.
+Happ´e, Francesca G. E. (1995). The role of age and verbal ability in the theory of mind
+task performance of subjects with autism. Child Development, 66: 843-855.
+Haslam, Nick (2006).
+Dehumanization: an integrative review.
+Personality and Social
+Psychology Review, 10(3): 252-264.
+Hermelin, Beate and Neil O'Connor (1967).
+Remembering of words by psychotic and
+subnormal children. British Journal of Psychology, 58: 213-218.
+Hermelin, Beate and Neil O'Connor (1970). Psychological Experiments with Autistic Chil-
+dren. Pergamon Press, Oxford.
+Hill, E. L. (2004). Evaluating the theory of executive dysfunction of autism. Developmental
+Review, 24: 189-233.
+Hobson, R. P. (1989).
+Beyond cognition: A theory of autism.
+In Dawson, Geraldine,
+editor, Autism: Nature, Diagnosis, and Treatment, pages 22-48. The Guilford Press,
+New York.
+Hobson, R. P. (1993). Understanding persons: The role of affect. In Dawson, Geraldine,
+editor, Understanding Other Minds: Perspectives from Autism, pages 204-227. Oxford
+University Press, Oxford.
+Hobson, R. P. (2002). The Cradle of Thought. Pan Macmillan, London.
+Hollocks, Matthew J., Catherine R. G. Jones, Andrew Pickles, Gillian Baird, Francesca
+Happ´e, Tony Charman, and Emily Simonoff (2014). The association between social cog-
+nition and executive functioning and symptoms of anxiety and depression in adolescents
+with autism spectrum disorders. Autism Research, 7(2): 216-228.
+Hubert, B., B. Wicker, Derek G. Moore, E. Monfardini, H. Duverger, D. Da Fonseca,
+and C. Deruelle (2007). Brief report: recognition of emotional and non-emotional bio-
+logical motion in individuals with autistic spectrum disorders. Journal of autism and
+developmental disorders, 37: 1386-1392.
+Hughes, Claire (1998). Executive function in preschoolers: Links with theory of mind and
+verbal ability. British journal of developmental psychology, 16(2): 233-253.
+Hughes, C. and S. Leekam (2004).
+What are the links between theory of mind and
+social relations? review, reflections and new directions for studies of typical and atypical
+development. Social Development, 13: 590-619.
+Hughes, C. and J. Russell (1993). Autistic children's difficulty with mental disengagement
+from an object: Its implications for theories of autism.
+Developmental Psychology,
+29: 498-510.
+Kanner, Leo (1943). Autistic Disturbances of Affective Contact. Nervous Child, 2: 217-
+250.
+Kelman, Herbert G. (1973). Violence without moral restraint: reflections on the dehu-
+manization of victims and victimizers. Journal of Social Issues, 29(4): 25-61.
+Kerr, Sharyn and Kevin Durkin (2004).
+Understanding of thought bubbles as mental
+representations in children with autism: Implications for theory of mind. Journal of
+Autism and Developmental Disorders, 34: 637-648.
+Klin, A. and F. Volkmar (1993). The development of individuals with autism: Implications
+for the theory of mind hypothesis. In Dawson, Geraldine, editor, Understanding Other
+Minds: Perspectives from Autism, pages 317-331. Oxford University Press, Oxford.
+Klin, A., F. R. Volkmar, and S. S. Sparrow (1992). Autistic social dysfunction: Some lim-
+itations of the theory of mind hypothesis. Journal of Child Psychology and Psychiatry,
+33: 861-876.
+Knickmeyer, Rebecca, Simon Baron-Cohen, Peter Raggatt, Kevin Taylor, and Gerald
+Hackett (2006). Fetal testosterone and empathy. Hormones and Behavior, 49: 282-292.
+Krahn, Timothy M. and Andrew Fenton (2012a).
+The extreme male brain theory of
+autism and the potential adverse effects for boys and girls with autism.
+Bioethical
+Inquiry, 9: 93-103.
+
+28
+AUTISM & THE PSEUDOSCIENCE OF MIND
+Krahn, Timothy M. and Andrew Fenton (2012b). Funding priorities: Autism and the need
+for a more balanced research agenda in canada. Public Health Ethics, 5(3): 296-310.
+Lakatos, Imre (1970). Falsification and the methodology of research program. In Lakatos,
+Imre and Alan Musgrave, editors, Criticism and the Growth of Knowledge, pages 91-
+197. Cambridge University Press, Cambridge.
+Leslie, Alan M. (1987).
+Pretense and representation: The origins of 'theory of mind'.
+Psychological Review, 94: 412-426.
+Leslie, Alan M. (1991). The theory of mind impairment in autism: Evidence for a modular
+mechanism of development? In Whiten, A., editor, Natural Theories of Mind: Evolution,
+Development and Simulation of Everyday Mindreading, pages 63-78. Blackwell, Oxford.
+Leslie, Alan M. (1992). Pretense, autism, and the theory-of-mind module. Current direc-
+tions in psychological science, 1(1): 18-21.
+Leyens, Jacques-Philippe, Paola M. Paladino, Ramon Rodriguez-Torres, Jeroen Vaes,
+St´ephanie Demoulin, Armando Rodriguez-Perez, and Ruth Gaunt (2000). The emo-
+tional side of prejudice: the attribution of secondary emotions to ingroups and out-
+groups. Personality and Social Psychology Review, 4(2): 186-197.
+Li, Tianbi, Jean Decety, Xiaoyi Hu, Jiao Li, Jinling Lin, and Li Yi (2019). Third-party
+sociomoral evaluations in children with autism spectrum disorder. Child development,
+90(5): e584-e597.
+Li, Xiaoming, Kai Wang, Fan Wang, Qian Tao, Yu Xie, and Qi Cheng (2013). Aging of the-
+ory of mind: The influence of educational level and cognitive processing. International
+Journal of Psychology, 48(4): 715-727.
+Liebal, Kristin, Costanza Colombi, Sally J. Rogers, Felix Warneken, and Michael
+Tomasello (2008). Helping and cooperation in children with autism. Journal of autism
+and developmental disorders, 38: 224-238.
+Lo, S. T., E. Siemensma, P. Collin, and A. Hokken-Koelega (2013). Impaired theory of
+mind and symptoms of autism spectrum disorder in children with prader-willi syndrome.
+Research in Developmental Disabilities, 34: 2764-2773.
+Loukusa, S., L. M¨akinen, S. Kuusikko-Gauffin, H. Ebeling, and I. Moilanen (2014). Theory
+of mind and emotion recognition skills in children with specific language impairment,
+autism spectrum disorder and typical development: Group differences and connection
+to knowledge of grammatical morphology, word-finding abilities and verbal working
+memory. International Journal of Language & Communication Disorders, 49: 498-507.
+Lukito, Steve, Catherine R. G. Jones, Andrew Pickles, Gillian Baird, Francesca Happ´e,
+Tony Charman, and Emily Simonoff (2017). Specificity of executive function and theory
+of mind performance in relation to attention-deficit/hyperactivity symptoms in autism
+spectrum disorders. Molecular Autism, 8: 1-13.
+McAleer, Phil, Jim W. Kay, Frank E. Pollick, and M. D. Rutherford (2011). Intention
+perception in high functioning people with autism spectrum disorders using animacy
+displays derived from human actions. Journal of autism and developmental disorders,
+41: 1053-1063.
+Miller, Carol A. (2001).
+False belief understanding in children with specific language
+impairment. Journal of communication disorders, 34(1-2): 73-86.
+Milligan, Karen, Janet Wilde Astington, and Lisa Ain Dack (2007). Language and theory
+of mind: Meta-analysis of the relation between language ability and false-belief under-
+standing. Child Development, 78(2): 622-646.
+Milton, Damian, Emine Gurbuz, , and Beatriz L´opez (2022). The 'double empathy prob-
+lem': Ten years on. Autism, 26(8): 1901-1903.
+Milton, Damian E. M. (2012). On the ontological status of autism: the 'double empathy
+problem'. Disability & Society, 27(6): 883-887.
+Minshew, N. J., G. Goldstein, L. R. Muenz, and J. B. Payton (1992). Neuropsycholog-
+ical functioning in nonmentally retarded autistic individuals. Journal of Clinical and
+Experimental Neuropsychology, 14: 749-761.
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+29
+Minshew, N. J., G. Goldstein, and D. J. Siegel (1997). Neuropsychologic functioning in
+autism: Profile of a complex information processing disorder. Journal of the Interna-
+tional Neuropsychological Society, 3: 303-316.
+Minter, M., R. Hobson, and M. Bishop (1998). Congenital visual impairment and 'theory
+of mind'. British Journal of Developmental Psychology, 16: 183-196.
+Moran, Joseph M., Liane L. Young, Rebecca Saxe, Su Mei Lee, Daniel O'Young, Pene-
+lope L. Mavros, , and John D. Gabrieli (2011).
+Impaired theory of mind for moral
+judgment in high-functioning autism. Proceedings of the National Academy of Sciences,
+108(7): 2688-2692.
+Morton, J. and Uta Frith (1995a). Causal modelling: A structural approach to develop-
+mental psychopathology, pages 357-390. Wiley, New York.
+Morton, J. and Uta Frith (1995b). Language, Brain, and Cognitive Development: Essays
+in Honor of Jacques Mehler, pages 263-278. The MIT Press, Cambridge, MA.
+Mundy, P. and M. Sigman (1989). Specifying the nature of the social impairment in autism,
+pages 3-21. Guilford Press, New York.
+Murray, Dinah, Mike Lesser, and Wenn Lawson (2005). Attention, monotropism and the
+diagnostic criteria for autism. Autism, 9(2): 139-156.
+Murray, Fergus (2018). Me and monotropism: A unified theory of autism. The British
+Psychological Society, Nov.(30).
+Norbury, C. F. (2005). The relationship between theory of mind and metaphor: Evidence
+from children with language impairment and autistic spectrum disorder. British Journal
+of Developmental Psychology, 23: 383-399.
+Nussbaum, Martha C. (2006). Frontiers of Justice: Disability, Nationality, Species Mem-
+bership. The Belknap Press of Harvard University Press, Cambridge, MA.
+Opotow, Susan (1990). Moral exclusion and injustice: an introduction. Journal of Social
+Issues, 46(1): 1-20.
+Ornitz, E. M. and E. R. Ritvo (1968). Perceptual inconstancy in early infantile autism.
+Archives of General Psychiatry, 18: 76-98.
+Oswald, Donald P. and Thomas H. Ollendick (1989). Role taking and social competence
+in autism and mental retardation.
+Journal of autism and developmental disorders,
+19(1): 119-127.
+Ozonoff, Sally, Bruce F. Pennington, and Sally J. Rogers (1991a).
+Executive function
+deficits in high-functioning autistic individuals: Relationship to theory of mind. Journal
+of Child Psychology and Psychiatry, 32: 1081-1105.
+Ozonoff, Sally, Sally J. Rogers, and Bruce F. Pennington (1991b). Asperger's syndrome:
+Evidence of an empirical distinction from high-functioning autism. Journal of Child
+Psychology and Psychiatry, 32(7): 1107-1122.
+Payne, J. M., M. Porter, N. A. Pride, and K. N. North (1995). Theory of mind in children
+with Neurofibromatosis Type 1. Neuropsychology, 30: 439-448.
+Pellicano, Elizabeth (2011). Psychological models of autism: An overview. In Roth, Ilona
+and Payam Rezaie, editors, Researching the Autism Spectrum: Contemporary Perspec-
+tives, pages 219-265. Cambridge University Press, Cambridge.
+Pellicano, Elizabeth, Adam Dinsmore, and Tony Charman (2014). What should autism
+research focus upon? community views and priorities from the united kingdom. Autism,
+18(7): 756-770.
+Pennington, B. F. and S. Ozonoff (1996). Executive functions and developmental psy-
+chopathology. Journal of Child Psychology and Psychiatry, 37: 51-87.
+Pennington, Bruce F., Sally J. Rogers, Loisa Bennetto, Elizabeth McMahon Griffith,
+D. Taffy Reed, and Vivian Shyu (1997). Validity tests of the executive dysfunction
+hypothesis of autism.
+In Russell, James, editor, Autism as an Executive Disorder,
+pages 143-178. Oxford University Press, Oxford.
+Peterson, Candida C. and Michael Siegal (1995). Deafness, conversation and theory of
+mind. Journal of Child Psychology and Psychiatry, 36: 459-474.
+
+30
+AUTISM & THE PSEUDOSCIENCE OF MIND
+Peterson, Candida C. and Michael Siegal (1999). Representing inner worlds: Theory of
+mind in autistic, deaf, and normal hearing children. Psychological Science, 10: 126-129.
+Piven, Joseph, Pat Palmer, Dinah Jacobi, Debra Childress, and Stephan Arndt (1997).
+Broader autism phenotype: evidence from a family history study of multiple-incidence
+autism families. American Journal of Psychiatry, 154: 185-190.
+Ponnet, Koen, Ann Buysse, Herbert Roeyers, and Kim De Corte (2005). Empathic ac-
+curacy in adults with a pervasive developmental disorder during an unstructured con-
+versation with a typically developing stranger. Journal of Autism and Developmental
+Disorders, 35: 585-600.
+Popper, Karl (1962).
+Conjectures and refutations. The growth of scientific knowledge.
+Basic Books, New York.
+Premack, David and Guy Woodruff (1978). Does the chimpanzee have a theory of mind?
+Behavioral and Brain Sciences, 1(4): 515-526.
+Prior, Margot, Bronwyn Dahlstrom, and Tracie-Lee Squires (1990). Autistic children's
+knowledge of thinking and feeling states in other people. Journal of Child Psychology
+and Psychiatry, 31(4): 587-601.
+Pugh, Zachary H., Sanghyun Choo, Joseph C. Leshin, Kristen A. Lindquist, and Chang S
+Nam (2021). Emotion depends on context, culture and their interaction: evidence from
+effective connectivity. Social Cognitive and Affective Neuroscience, 17(2): 206-217.
+Rasmussen, C., K. Wyper, and V. Talwar (2009). The relation between theory of mind
+and executive functions in children with fetal alcohol spectrum disorders. The Canadian
+Journal of Clinical Pharmacology, 16: e370-e380.
+Raud, T., M. L. Kaldoja, and A. Kolk (2015). Relationship between social competence and
+neurocognitive performance in children with epilepsy. Epilepsy & Behavior, 52: 93-101.
+Reed, Taffy and Candida Peterson (1990).
+A comparative study of autistic subjects'
+performance at two levels of visual and cognitive perspective taking. Journal of Autism
+and Developmental Disorders, 20(4): 555-568.
+Reidy, R. E., R. G. Ross, and S. K. Hunter (2013).
+Theory of mind development is
+impaired in 4-year-old children with prenatal exposure to maternal tobacco smoking.
+International Neuropsychiatric Disease Journal, 1: 24-34.
+Ridley, Rosalind (2019). Some difficulties behind the concept of the 'extreme male brain' in
+autism research. a theoretical review. Research in Autism Spectrum Disorders, 57: 19-
+27.
+Rippon, Gina (2020). Gender and Our Brains: How New Neuroscience Explodes the Myths
+of the Male and Female Minds. Vintage Books, New York.
+Roche, Laura, Dawn Adams, and Megan Clark (2021). Research priorities of the autism
+community: A systematic review of key stakeholder perspectives. Autism, 25(2): 336-
+248.
+Russell, James and Elisabeth L. Hill (2001). Action-monitoring and intention reporting
+in children with autism. The Journal of Child Psychology and Psychiatry and Allied
+Disciplines, 42(3): 317-328.
+Russell, P. A., J. A. Hosie, C. D. Gray, C. Scott, N. Hunter, J. S. Banks, and M. C.
+Macaulay (1998). The development of theory of mind in deaf children. Journal of Child
+Psychology and Psychiatry, 39: 903-910.
+Russo, Natalie, Tara Flanagan, Grace Iarocci, Darlene Berringer, Philip David Zelazo, and
+Jacob A. Burack (1998). Deconstructing executive deficits among persons with autism:
+Implications for cognitive neuroscience. Brain and Cognition, 65(1): 77-86.
+Rutter, Michael (1968).
+Concepts of autism: a review of research.
+Journal of Child
+Psychology and Psychiatry, 9: 1-25.
+Rutter, Michael (1983). Cognitive deficits in the pathogenesis of autism. journal of child
+psychology and psychiatry. Journal of Child Psychology and Psychiatry, 24: 513-531.
+Saltzman, Jennifer, Esther Strauss, Michael Hunter, and Sarah Archibald (2000). Theory
+of mind and executive functions in normal human aging and parkinson's disease. Journal
+
+AUTISM & THE PSEUDOSCIENCE OF MIND
+31
+of the International Neuropsychological Society, 6(7): 781-788.
+Sample, Ruth (2013). Autism and the extreme male brain. In Anderson, Jami L. and
+Simon Cushing, editors, The Philosophy of Autism, pages 73-101. Rowman & Littlefield,
+Plymouth.
+Scherzer, Peter, Edith Leveill´e, Andr´e Achim, Emilie Boisseau, and Emmanuel Stip (2012).
+A study of theory of mind in paranoid schizophrenia: a theory or many theories? Fron-
+tiers in Psychology, 3: 432.
+Sebanz, Natalie, G¨unther Knoblich, Luitgard Stumpf, and Wolfgang Prinz (2005). Far
+from action-blind: Representation of others' actions in individuals with autism. Cogni-
+tive Neuropsychology, 22(3-4): 433-454.
+Sinclair, Jim (2013). Why I dislike person first language. Autonomy, the Critical Journal
+of Interdisciplinary Autism Studies, 1(2). Originally published on the author's website,
+1999.
+Singh, Jennifer, Judy Illes, Laura Lazzeroni, and Joachim Hallmayer (2009). Trends in us
+autism research funding. Journal of Autism and Developmental Disorders, 39(5): 788-
+795.
+Slade, Lance and Ted Ruffman (2005). How language does (and does not) relate to theory
+of mind: A longitudinal study of syntax, semantics, working memory and false belief.
+British Journal of Developmental Psychology, 23: 117-141.
+Smilges, J. Logan (2022a). Neurotrans: Thorazine, hiv, and marsha p. Transgender Studies
+Quarterly, 9(4): 634-652.
+Smilges, J. Logan (2022b). Queer Silence: On Disability and Rhetorical Absence. Univer-
+sity of Minnesota Press, Minneapolis.
+Smilges, J. Logan (2023). Crip Negativity. University of Minnesota Press, Minneapolis.
+https://manifold.umn.edu/projects/crip-negativity.
+Spek, Annelies A., Evert M. Scholte, and Ina A. Van Berckelaer-Onnes (2010). Theory of
+mind in adults with hfa and asperger syndrome. Journal of autism and developmental
+disorders, 40: 280-289.
+Ssucharewa, Grunya E. (1926). Die schizoiden psychopathien im kindesalter. Monatsschrift
+f¨ur Psychiatrie und Neurologie, 60(3-4): 235-247.
+Taboas, Amanda, Karla Doepke, and Corinne Zimmerman (2022). Preferences for identity-
+first versus person-first language in a us sample of autism stakeholders.
+Autism,
+27(2): 565-570.
+Tager-Flusberg, Helen (2001). A reexamination of the theory of mind hypothesis of autism.
+In Burack, Jacob A., Tony Charman, Nurit Yurmiya, and Philip R. Zelazo, editors,
+The Development of Autism: Perspectives from Theory and Research, pages 173-193.
+Lawrence Erlbaum Associates, Mahwah, NJ.
+Tager-Flusberg, Helen (2007). Evaluating the theory-of-mind hypothesis of autism. Cur-
+rent Directions in Psychological Science, 16(1): 311-315.
+Teo, Thomas (2010). What is epistemological violence in the empirical social sciences?
+Social and Personality Psychology Compass, 4(5): 295-303.
+van Honk, Jack, Dennis J. Schuttera, Peter A. Bosa, Anne-Wil Kruijtc, Eef G. Lentjesd,
+and Simon Baron-Cohen (2011). Testosterone administration impairs cognitiveempa-
+thy in women depending on second-to-fourthdigit ratio. Proceedings of the National
+Academy of Sciences of the United States of America, 108(8): 3448-3452.
+Vetter, Nora C., Kristina Leipold, Matthias Kliegel, Louise H. Phillips, and Mareike Alt-
+gassen (2013). Ongoing development of social cognition in adolescence. Child Neuropsy-
+chology, 19(6): 615-629.
+Vivanti, Giacomo, Carolyn McCormick, Gregory S. Young, Floridette Abucayan, Naomi
+Hatt, Aparna Nadig, Sally Ozonoff, and Sally J. Rogers (2011). Intact and impaired
+mechanisms of action understanding in autism. Developmental psychology, 47(3): 841.
+Volkmar, F. R., S. S. Sparrow, D. Goudreau, D. V. Cicchetti, R. Paul, and D. J. Cohen
+(1987). Social deficits in autism: An operational approach using the vineland adaptive
+
+32
+AUTISM & THE PSEUDOSCIENCE OF MIND
+behavior scales. Journal of the American Academy of Child and Adolescent Psychiatry,
+26: 156-161.
+Walker, Nick (2021). Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic
+Empowerment, and Postnormal Possibilities. Autonomous Press, Fort Worth, TX.
+Warren, Mary Anne (1973).
+On the moral and legal status of abortion.
+The Monist,
+57(4): 43-61.
+Waters, C. Kenneth (2019). Presidential address, psa 2016: An epistemology of scientific
+practice. Philosophy of Science, 86(4): 585-611.
+White, Sarah, Elisabeth Hill, Francesca Happ´e, and Uta Frith (2009).
+Revisiting the
+strange stories: Revealing mentalizing impairments in autism.
+Child Development,
+80(4): 1097-1117.
+White, Sarah J., Devorah Coniston, Rosannagh Rogers, and Uta Frith (2011). Developing
+the frith-happ´e animations: A quick and objective test of theory of mind for adults with
+autism. Autism Research, 4(2): 149-154.
+Wilson, C. Ellie, Francesca Happ´e, Sally J. Wheelwright, Christine Ecker, Michael V.
+Lombardo, Patrick Johnston, Eileen Daly, Clodagh M. Murphy, Debbie Spain, Meng-
+Chuan Lai, Bhismadev Chakrabarti, Disa A. Sauter, MRC AIMS Consortium, Simon
+Baron-Cohen, and Declan G. M. Murphy (2014). The neuropsychology of male adults
+with high-functioning autism or asperger syndrome. Autism Research, 7(5): 568-581.
+Wimmer, Heinz and Josef Perner (1983). Beliefs about beliefs: Representation and con-
+straining function of wrong beliefs in young children's understanding of deception. Cog-
+nition, 13(1): 103-128.
+Wing, Lorna and Judith Gould (1979).
+Severe impairments of social interaction and
+associated abnormalities in children: Epidemiology and classification. Journal of Autism
+and Developmental Disorders, 9: 11-29.
+Wing, Lorna and John K. Wing (1971). Multiple impairments in early childhood autism.
+Journal of Autism and Childhood Schizophrenia, 1: 256-266.
+Yergeau, M. [Remi] (2016). Occupying autism: Rhetoric, involuntarity, and the meaning
+of autistic lives. In Block, P., D. Kasnitz, A. Nishida, and N. Pollard, editors, Occupy-
+ing Disability: Critical Approaches to Community, Justice, and Decolonizing Disability,
+pages 83-95. Springer, Dordrecht.
+Yirmiya, Nurit and Cory Shulman (1996). Seriation, conservation, and theory of mind
+abilities in individuals with autism, individuals with mental retardation, and normally
+developing children. Child Development, 67(5): 2045-2059.
+Yirmiya, N., D. Solomonica-Levi, C. Shulman, and T. Pilowsky (1996). Theory of mind
+abilities in individuals with autism, down syndrome, and mental retardation of unknown
+etiology: The role of age and intelligence. Journal of Child Psychology and Psychiatry,
+37: 1003-1014.
+Zelazo, Philip David, Jacob A. Burack, Elizabeth Benedetto, , and Douglas Frye (1996).
+Theory of mind and rule use in individuals with down's syndrome: A test of the unique-
+ness and specificity claims. Journal of Child Psychology and Psychiatry, 37(4): 479-484.
+
